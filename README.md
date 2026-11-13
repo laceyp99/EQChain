@@ -1,5 +1,7 @@
 # EQChain
 
+> **Archived.** This plugin now lives in [laceyp99/juce-plugins](https://github.com/laceyp99/juce-plugins), alongside my other 2023 JUCE plugins.
+
 The plugin is a versatile tool designed to allow precise sculpting of audio frequency response during mixing or music production. This plugin is based on Ableton Live's EQ Eight and features eight bands of parametric equalization with adjustable frequency, gain, and Q settings. Throughout the creation process, we focused on understanding the phase shifting that occurs within EQs and aimed to create a linear-phase EQ that provides a more accurate sound. We also compared our plugin's phase changes with those of multiple commercial stock and third-party EQs to ensure it meets industry standards. We hope this plugin will become a go-to tool for your music production and mixing needs.
 
 **Requirements**
